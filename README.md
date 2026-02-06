@@ -1,6 +1,3 @@
-Here is the raw Markdown code for your README.md. You can copy and paste this directly into your GitHub editor.
-
-Markdown
 # Optimising User Retention: Cookie Cats A/B Test & Churn Prediction
 
 ## 📌 Project Overview
